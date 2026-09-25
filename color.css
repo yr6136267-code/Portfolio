@@ -1,0 +1,17 @@
+#item-1 {
+    background-color:blue;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px  black dashed;
+}
+#item-2 {
+    background-color:rgb(255, 0, 140);
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px  black dashed;
+    box-sizing: border-box;
+}
